@@ -1,32 +1,33 @@
-export default function HomePage() {
-  return (
-    <main className="page">
-      <section className="hero">
-        <h1>⚓ Welcome to Vessel</h1>
+<section className="hero">
+  <h1>Faith, Healing, and National Deliverance</h1>
 
-        <p>
-          Vessel is your digital ecosystem for business, journal records,
-          programs, creative work, operations, and future online services.
-        </p>
-      </section>
+  <p>
+    I stand in the name of Jesus Christ against idolatry, corruption,
+    fear, oppression, spiritual confusion, and every practice that keeps
+    families and nations in poverty.
+  </p>
 
-      <section className="grid">
-        <div className="card">
-          <h2>Journal</h2>
-          <p>Organize notes, archives, documents, and project records.</p>
-        </div>
+  <p>
+    I do not bow before statues, idols, secret societies, occult systems,
+    or any power that separates people from God, truth, justice, and
+    righteousness.
+  </p>
 
-        <div className="card">
-          <h2>Programs</h2>
-          <p>Build and manage business, civic, education, and service programs.</p>
-        </div>
+  <p>
+    This platform calls for repentance, healing, education, lawful justice,
+    protection of families, and national restoration.
+  </p>
 
-        <div className="card">
-          <h2>Dashboard</h2>
-          <p>Track systems, tools, accounts, payments, and operations.</p>
-        </div>
-      </section>
-    </main>
-  );
-}
+  <p>
+    I pray for healing over Haiti, Canada, all nations, all families, all
+    children, all communities, all animals, and all creation according to
+    the will, mercy, and authority of God.
+  </p>
+
+  <p>
+    This message is not written to attack people, but to call everyone out
+    of darkness, corruption, violence, fear, and deception, and toward
+    truth, peace, justice, and life through Jesus Christ.
+  </p>
+</section>
 
